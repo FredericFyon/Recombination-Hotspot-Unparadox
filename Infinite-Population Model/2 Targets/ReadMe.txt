@@ -1,1 +1,1 @@
-
+The mathematica file presented in this directory presents the code used to compute simulations and draw figures corresponding to a 3-locus, 2-allele, infinite population model. In this model, there is 1 PRDM9 locus and 2 target loci.
